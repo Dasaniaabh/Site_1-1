@@ -1,0 +1,98 @@
+body {
+  font-family: "Parkinsans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  background-color: #3d3f4c;
+}
+
+.header {
+  text-align: center;
+  margin: 24px;
+}
+
+ul {
+  display: inline;
+}
+
+li {
+  display: inline;
+  margin-right: 30px;
+}
+
+li.Transition {
+  color: whitesmoke;
+  font-size: 20px;
+}
+
+.section1 {
+  height: 300px;
+  max-width: 100%;
+  background-color: antiquewhite;
+  /* margin: 10px; */
+  /* margin-bottom: 24px; */
+}
+
+.photo {
+  width: 100%;
+  height: 100%;
+}
+
+.section2 {
+  background-color: aliceblue;
+  max-height: 100%;
+  margin-bottom: 40px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 32px;
+  margin-bottom: 24px;
+}
+
+.text-containe {
+  max-width: 900px;
+  margin: auto;
+  text-align: center;
+  margin-bottom: 24px;
+}
+hr {
+  color: red;
+}
+p,
+h1,
+li {
+  color: #808893;
+}
+
+.line {
+  width: 80%;
+  height: 2px;
+  background-color: #3d3f4c;
+  margin: 20px auto;
+}
+
+.my-button {
+  background-color: #4caf50;
+  color: white;
+  width: 150px;
+  height: 50px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  padding: 10px;
+  margin-bottom: 24px;
+}
+
+.my-button-position {
+  text-align: center;
+}
+
+.Contact {
+  text-align: center;
+}
+
+.Contact-color {
+  color: #808893;
+}
